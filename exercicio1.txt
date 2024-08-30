@@ -1,0 +1,17 @@
+1. Indique qual o tipo dos seguintes dados (Inteiro, Decimal, String ou Booleano): 
+
+a. Inteiro
+b. Booleano
+c. String
+d. Decimal
+e. String
+f. Inteiro
+g. Inteiro
+h. Booleano
+i. String
+j. Inteiro
+k. Decimal
+l. Decimal
+m. Inteiro
+n. Inteiro
+o. String
